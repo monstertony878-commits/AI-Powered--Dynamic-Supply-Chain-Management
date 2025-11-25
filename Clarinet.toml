@@ -1,0 +1,8 @@
+[project]
+name = "ai-powered-dynamic-supply-chain"
+clarity_version = 2
+network = "simnet"
+
+[contracts.ai-supply-chain]
+path = "contracts/ai-supply-chain.clar"
+clarity_version = 2
